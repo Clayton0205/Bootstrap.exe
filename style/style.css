@@ -44,3 +44,9 @@ max-height: 400px;
 flex-grow: 1;
 object-fit: cover;
 }
+
+.img
+{
+width: 100px;
+height: 100px;
+}
